@@ -2,7 +2,7 @@
 
 Skeleton for the [Space invaders project](https://perso.esiee.fr/~perretb/I3FM/POO1/projet/) (in French).
 
-Report of the project : [Report](Rapport%20Space%20Invaders%20Michel%20CHEN%20_%20Valeria%20ASMAT.pdf)
+Report of the project : ![Report](Rapport%20Space%20Invaders%20Michel%20CHEN%20_%20Valeria%20ASMAT.pdf)
 
 ## Requires 
 
